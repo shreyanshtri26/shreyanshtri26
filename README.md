@@ -78,6 +78,8 @@ Full Stack Developer with a strong foundation in modern web technologies and a p
 
 <div align="center">
 
+<div align="center">
+
 # 🌟 Featured Projects
 
 ![Projects](https://img.shields.io/badge/Projects-8-blue)
@@ -90,9 +92,7 @@ Full Stack Developer with a strong foundation in modern web technologies and a p
 <tr>
 <td width="50%">
 
-<h3 align="center">
-  🏏 CRICBEAR
-</h3>
+<h3 align="center">🏏 CRICBEAR</h3>
 <div align="center">
   <p>Cricket Tournament Management System</p>
   
@@ -100,7 +100,7 @@ Full Stack Developer with a strong foundation in modern web technologies and a p
   ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
   
-  <p>Enterprise-grade cricket management platform with real-time scoring and team management</p>
+  <p>A full-stack cricket management system featuring dual dashboards for Admin/Coach and Public Users. Administrators can manage tournaments, users, and matches, while coaches handle team registrations and tournament participation. The system provides real-time match updates and supports simultaneous dashboard execution for seamless cricket event management. Built for scalability and efficient tournament handling.</p>
   
   [Source Code](https://github.com/shreyanshtri26/CRICBEAR)
 </div>
@@ -108,9 +108,7 @@ Full Stack Developer with a strong foundation in modern web technologies and a p
 </td>
 <td width="50%">
 
-<h3 align="center">
-  📚 ExamFlow
-</h3>
+<h3 align="center">📚 ExamFlow</h3>
 <div align="center">
   <p>Online Examination Platform</p>
   
@@ -118,7 +116,7 @@ Full Stack Developer with a strong foundation in modern web technologies and a p
   ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
   
-  <p>Comprehensive exam management system with automated grading and analysis</p>
+  <p>A comprehensive web-based platform supporting three distinct user roles: Students can register, take tests, and view results; Teachers create and manage questions/tests; Admins oversee users and subjects. Features environment variables for MongoDB configuration, JWT authentication, and Docker support. Creates default admin user on first launch and is actively maintained by multiple contributors.</p>
   
   [Source Code](https://github.com/shreyanshtri26/ExamFlow)
 </div>
@@ -129,9 +127,7 @@ Full Stack Developer with a strong foundation in modern web technologies and a p
 <tr>
 <td width="50%">
 
-<h3 align="center">
-  🎥 P2P Video Chat
-</h3>
+<h3 align="center">🎥 P2P Video Chat</h3>
 <div align="center">
   <p>Real-time Video Conferencing Solution</p>
   
@@ -139,7 +135,7 @@ Full Stack Developer with a strong foundation in modern web technologies and a p
   ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?logo=socket.io&logoColor=white)
   ![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
   
-  <p>Low-latency P2P video conferencing with screen sharing capabilities</p>
+  <p>Advanced video conferencing application utilizing WebRTC for peer-to-peer streaming and Spring Boot with Socket.IO for signaling. Features low-latency bidirectional communication, Bootstrap UI, and Nginx reverse proxy for HTTPS. Supports audio/video calls, screen sharing, and cross-device data transfer. Containerized with Docker for scalability and includes SSL setup and WebRTC signaling configurations.</p>
   
   [Source Code](https://github.com/shreyanshtri26/P2P-Video-Chat)
 </div>
@@ -147,16 +143,14 @@ Full Stack Developer with a strong foundation in modern web technologies and a p
 </td>
 <td width="50%">
 
-<h3 align="center">
-  🎨 ShapeXtrusion
-</h3>
+<h3 align="center">🎨 ShapeXtrusion</h3>
 <div align="center">
   <p>3D Modeling Tool</p>
   
   ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
   ![Babylon.js](https://img.shields.io/badge/Babylon.js-BB464B?logo=babylonjs&logoColor=white)
   
-  <p>Browser-based 3D modeling application with real-time preview</p>
+  <p>A React and Babylon.js web application that transforms 2D sketches into 3D objects directly in the browser. Features drawing tools, one-click extrusion, drag-and-drop movement, and vertex editing for model reshaping. Provides an intuitive interface for interactive 3D creation, turning your browser into a mini 3D design studio. Simple setup with dependency installation and server startup.</p>
   
   [Source Code](https://github.com/shreyanshtri26/shapextrusion)
 </div>
@@ -167,9 +161,7 @@ Full Stack Developer with a strong foundation in modern web technologies and a p
 <tr>
 <td width="50%">
 
-<h3 align="center">
-  🛒 E-commerce Platform
-</h3>
+<h3 align="center">🛒 E-commerce Platform</h3>
 <div align="center">
   <p>Full-featured Shopping Platform</p>
   
@@ -177,7 +169,7 @@ Full Stack Developer with a strong foundation in modern web technologies and a p
   ![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
   
-  <p>Modern e-commerce solution with advanced catalog management</p>
+  <p>A comprehensive e-commerce solution featuring user registration, authentication, and profile management. Includes a robust product catalog with advanced search and filtering capabilities. Implements shopping cart functionality, secure payment gateway integration, and wishlist features. Comes with a powerful admin panel for content management and store oversight.</p>
   
   [Source Code](https://github.com/shreyanshtri26/Ecommerce_site)
 </div>
@@ -185,16 +177,14 @@ Full Stack Developer with a strong foundation in modern web technologies and a p
 </td>
 <td width="50%">
 
-<h3 align="center">
-  🗺️ Geospatial-App
-</h3>
+<h3 align="center">🗺️ Geospatial-App</h3>
 <div align="center">
   <p>Geographic Data Visualization</p>
   
   ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
   ![Leaflet](https://img.shields.io/badge/Leaflet-199900?logo=leaflet&logoColor=white)
   
-  <p>Advanced mapping tool with multiple format support and custom shapes</p>
+  <p>A sophisticated web-based tool for geographical data interaction, built with React and Leaflet.js. Features drag-and-drop interface for GeoJSON and KML files, interactive mapping, and custom shape creation tools. Supports shape modification, property adjustments, and multi-format downloads. Utilizes React Leaflet Draw for dynamic drawing capabilities and provides a seamless experience for geospatial data visualization.</p>
   
   [Source Code](https://github.com/shreyanshtri26/geospatial-app)
 </div>
@@ -213,8 +203,10 @@ Full Stack Developer with a strong foundation in modern web technologies and a p
 
 ### 🌍 Travel Agency Management
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
-- SOLID principles implementation
-- Comprehensive unit testing
+![JUnit](https://img.shields.io/badge/JUnit-25A162?logo=junit5&logoColor=white)
+- Java-based travel management system implementing SOLID principles
+- Comprehensive JUnit testing and clean code guidelines
+- Documented codebase with UML class diagrams
 - [Source Code](https://github.com/shreyanshtri26/travelagency)
 
 </td>
@@ -222,13 +214,18 @@ Full Stack Developer with a strong foundation in modern web technologies and a p
 
 ### ✅ Task Management System
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-- Real-time updates via WebSocket
-- Role-based access control
+![Express.js](https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
+- JWT authentication and role-based access control
+- Real-time WebSocket updates and API rate limiting
+- MVC architecture with secure password hashing
 - [Source Code](https://github.com/shreyanshtri26/task-management)
 
 </td>
 </tr>
 </table>
+
+</div>
 
 <div align="center">
 
