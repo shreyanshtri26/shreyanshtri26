@@ -74,129 +74,234 @@ Full Stack Developer with a strong foundation in modern web technologies and a p
 ![MVC](https://img.shields.io/badge/MVC-43853D?style=for-the-badge&logo=mvc&logoColor=white)
 ![SOLID](https://img.shields.io/badge/SOLID-FFB13B?style=for-the-badge&logo=solid&logoColor=black)
 
-## 🚀 Featured Projects
+<div align="center">
 
-### 1. CRICBEAR - Cricket Management System 🏏
-Comprehensive cricket tournament management platform.
-- **Tech Stack**: Spring Boot, React, MySQL
-- **Features**:
-  - Dual dashboard system
-  - Tournament management
-  - Team registration
-  - Real-time match updates
-- [View Project](https://github.com/shreyanshtri26/CRICBEAR)
+<div align="center">
 
-### 2. ExamFlow - Online Exam Platform 📚
-Comprehensive examination management system.
-- **Tech Stack**: Node.js, React.js, MongoDB
-- **Features**:
-  - Multi-role support (Students, Teachers, Admins)
-  - Test creation and management
-  - Automated result processing
-  - JWT authentication
-  - Docker deployment support
-- [View Project](https://github.com/shreyanshtri26/ExamFlow)
+# 🌟 Featured Projects
 
-### 3. P2P Video Chat Application 🎥
-Enterprise-grade video conferencing solution.
-- **Tech Stack**: WebRTC, Spring Boot, Socket.IO, Nginx
-- **Features**:
-  - Low-latency peer-to-peer streaming
-  - Screen sharing capabilities
-  - HTTPS support with Nginx reverse proxy
-  - Containerized deployment
-- [View Project](https://github.com/shreyanshtri26/P2P-Video-Chat)
+![Projects](https://img.shields.io/badge/Projects-8-blue)
+![Stack](https://img.shields.io/badge/Full%20Stack-5-orange)
+![Active](https://img.shields.io/badge/Active-All-success)
 
-### 4. ShapeXtrusion - 3D Modeling Tool 🎨
-Browser-based 3D modeling application.
-- **Tech Stack**: React, Babylon.js
-- **Features**:
-  - 2D to 3D conversion
-  - Interactive modeling tools
-  - Real-time preview
-  - Vertex manipulation
-- [View Project](https://github.com/shreyanshtri26/shapextrusion)
+</div>
 
-### 5. Prism Code Editor ⌨️
-Advanced code editing platform with syntax highlighting.
-- **Tech Stack**: React, Prism.js
-- **Features**:
-  - Real-time syntax highlighting
-  - Multiple language support
-  - Responsive design
-  - Customizable interface
-- [View Project](https://github.com/shreyanshtri26/prism-code-editor)
+<table>
+<tr>
+<td width="50%">
 
-### 6. Travel Agency Management System 🌍
-Java-based travel management solution.
-- **Tech Stack**: Java, JUnit
-- **Features**:
-  - SOLID design principles implementation
-  - Comprehensive unit testing
-  - Destination and activity management
-  - UML-based architecture
-- [View Project](https://github.com/shreyanshtri26/travelagency)
+<h3 align="center">
+  🏏 CRICBEAR
+</h3>
+<div align="center">
+  <p>Cricket Tournament Management System</p>
+  
+  ![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
+  ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+  
+  <p>Enterprise-grade cricket management platform with real-time scoring and team management</p>
+  
+  [Source Code](https://github.com/shreyanshtri26/CRICBEAR)
+</div>
 
-### 7. Geospatial-App 🗺️
-Advanced geographical data visualization tool.
-- **Tech Stack**: React, Leaflet.js
-- **Features**:
-  - GeoJSON and KML file support
-  - Interactive mapping
-  - Custom shape creation
-  - Multiple format export options
-- [View Project](https://github.com/shreyanshtri26/geospatial-app)
+</td>
+<td width="50%">
 
+<h3 align="center">
+  📚 ExamFlow
+</h3>
+<div align="center">
+  <p>Online Examination Platform</p>
+  
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+  ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+  
+  <p>Comprehensive exam management system with automated grading and analysis</p>
+  
+  [Source Code](https://github.com/shreyanshtri26/ExamFlow)
+</div>
 
-### 8. E-commerce Platform 🛒
-A full-featured e-commerce solution with modern architecture.
-- **Tech Stack**: Redux, Spring Boot, React, MySQL
-- **Features**: 
-  - User authentication and profile management
-  - Advanced product catalog with search/filtering
-  - Shopping cart and wishlist functionality
-  - Secure payment gateway integration
-  - Admin panel for content management
-- [View Project](https://github.com/shreyanshtri26/Ecommerce_site)
+</td>
+</tr>
 
-### 9. Slot Machine Mini-Game 🎰
-Interactive gaming component for shooter games.
-- **Tech Stack**: React
-- **Features**:
-  - Engaging spin animations
-  - Customizable reward system
-  - Modular design
-  - Production-ready deployment
-- [View Project](https://github.com/shreyanshtri26/slot-machine-mini-game)
+<tr>
+<td width="50%">
 
-### 10. Task Management System ✅
-Comprehensive task management solution.
-- **Tech Stack**: Node.js, Express, MongoDB
-- **Features**:
-  - JWT authentication
-  - Role-based access control
-  - Real-time WebSocket updates
-  - API rate limiting
-  - MVC architecture
-- [View Project](https://github.com/shreyanshtri26/task-management)
+<h3 align="center">
+  🎥 P2P Video Chat
+</h3>
+<div align="center">
+  <p>Real-time Video Conferencing Solution</p>
+  
+  ![WebRTC](https://img.shields.io/badge/WebRTC-333333?logo=webrtc&logoColor=white)
+  ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?logo=socket.io&logoColor=white)
+  ![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
+  
+  <p>Low-latency P2P video conferencing with screen sharing capabilities</p>
+  
+  [Source Code](https://github.com/shreyanshtri26/P2P-Video-Chat)
+</div>
 
-## 🏆 Achievements & Certifications
-- 🌟 Google DSC Core Team Member
-- 📜 AWS Certified Developer - Associate
-- 🏅 Modern React with Redux (Coursera)
-- 🥇 First Place in University Hackathon
+</td>
+<td width="50%">
 
+<h3 align="center">
+  🎨 ShapeXtrusion
+</h3>
+<div align="center">
+  <p>3D Modeling Tool</p>
+  
+  ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+  ![Babylon.js](https://img.shields.io/badge/Babylon.js-BB464B?logo=babylonjs&logoColor=white)
+  
+  <p>Browser-based 3D modeling application with real-time preview</p>
+  
+  [Source Code](https://github.com/shreyanshtri26/shapextrusion)
+</div>
 
-## 🤝 Let's Connect!
-I'm always interested in collaborating on exciting projects or discussing new technologies. Feel free to reach out to me through:
-- 📧 Email: shreyanshtripathi1999@gmail.com
-- 💼 LinkedIn: [Shreyansh Tripathi](https://www.linkedin.com/in/shreyanshtri26/)
+</td>
+</tr>
 
-## 🎯 Current Focus
-- Exploring microservices architecture
-- Contributing to open-source projects
-- Learning cloud-native development
-- Improving system design skills
+<tr>
+<td width="50%">
+
+<h3 align="center">
+  🛒 E-commerce Platform
+</h3>
+<div align="center">
+  <p>Full-featured Shopping Platform</p>
+  
+  ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)
+  ![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+  
+  <p>Modern e-commerce solution with advanced catalog management</p>
+  
+  [Source Code](https://github.com/shreyanshtri26/Ecommerce_site)
+</div>
+
+</td>
+<td width="50%">
+
+<h3 align="center">
+  🗺️ Geospatial-App
+</h3>
+<div align="center">
+  <p>Geographic Data Visualization</p>
+  
+  ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+  ![Leaflet](https://img.shields.io/badge/Leaflet-199900?logo=leaflet&logoColor=white)
+  
+  <p>Advanced mapping tool with multiple format support and custom shapes</p>
+  
+  [Source Code](https://github.com/shreyanshtri26/geospatial-app)
+</div>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+## 🔍 More Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌍 Travel Agency Management
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
+- SOLID principles implementation
+- Comprehensive unit testing
+- [Source Code](https://github.com/shreyanshtri26/travelagency)
+
+</td>
+<td width="50%">
+
+### ✅ Task Management System
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+- Real-time updates via WebSocket
+- Role-based access control
+- [Source Code](https://github.com/shreyanshtri26/task-management)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+## 🌟 Professional Journey
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏆 Achievements & Certifications
+<div align="center">
+  
+![AWS](https://img.shields.io/badge/AWS_Certified_Developer-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google](https://img.shields.io/badge/DSC_Core_Team-4285F4?style=for-the-badge&logo=google&logoColor=white)
+  
+- AWS Certified Developer - Associate
+- Google DSC Core Team Member
+- Modern React with Redux (Coursera)
+- First Place in University Hackathon
+</div>
+
+</td>
+<td width="50%">
+
+### 🎯 Current Focus
+<div align="center">
+  
+![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge&logo=microservices&logoColor=white)
+![Open Source](https://img.shields.io/badge/Open_Source-181717?style=for-the-badge&logo=github&logoColor=white)
+  
+- Microservices Architecture
+- Open-source Contributions
+- Cloud-native Development
+- System Design Skills
+</div>
+
+</td>
+</tr>
+</table>
+
+## 💡 Let's Connect & Collaborate!
+
+<table>
+<tr>
+<td width="33%">
+<div align="center">
+  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyanshtripathi1999@gmail.com)
+  
+📧 Drop a message
+</div>
+</td>
+<td width="33%">
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyanshtri26/)
+  
+💼 Professional Network
+</div>
+</td>
+<td width="33%">
+<div align="center">
+  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shreyanshtri26)
+  
+👨‍💻 View Projects
+</div>
+</td>
+</tr>
+</table>
 
 ---
-⭐️ From [Shreyansh Tripathi](https://github.com/shreyanshtri26)
+
+<sub>⭐️ From [Shreyansh Tripathi](https://github.com/shreyanshtri26) - Let's build something amazing together!</sub>
+
+</div>
