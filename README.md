@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-Full Stack Developer with a strong foundation in modern web technologies and a passion for creating efficient, scalable applications. Currently working as an Associate Software Engineer at SmartBear, where I specialize in developing robust web applications. I'm particularly interested in building innovative solutions that solve real-world problems.
+Full Stack Developer with proven expertise in React.js, Spring Boot, and cloud technologies. Led development of CricBear platform achieving 25% user engagement growth and 95% reduction in unauthorized access. Architected high-performance applications using MongoDB, AWS, and Docker, handling 1000+ concurrent users. Skilled in optimizing development workflows, reducing release cycles by 20% and improving code quality from 67% to 90%. AWS Certified Developer with 1000+ solved LeetCode problems, demonstrating strong algorithmic proficiency. Consistently deliver scalable solutions across Spring Boot, React.js, Node.js, and TypeScript while maintaining 95% client satisfaction in freelance projects.
 
 ### 🎓 Education
 - B.E. in Computer Science Engineering from Visvesvaraya Technological University (2019-2023)
