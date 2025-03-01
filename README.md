@@ -177,20 +177,20 @@ Full Stack Developer with proven expertise in React.js, Spring Boot, and cloud t
 </td>
 <td width="50%">
 
-<h3 align="center">🗺️ Geospatial-App</h3>
+<h3 align="center">GlobeTrotter 🌎</h3>
 <div align="center">
-  <p>Geographic Data Visualization</p>
+  <p>Interactive Geography Learning Platform</p>
   
+  ![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
   ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-  ![Leaflet](https://img.shields.io/badge/Leaflet-199900?logo=leaflet&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
   
-  <p>A sophisticated web-based tool for geographical data interaction, built with React and Leaflet.js. Features drag-and-drop interface for GeoJSON and KML files, interactive mapping, and custom shape creation tools. Supports shape modification, property adjustments, and multi-format downloads. Utilizes React Leaflet Draw for dynamic drawing capabilities and provides a seamless experience for geospatial data visualization.</p>
+  <p>An interactive geography quiz game where players guess global destinations through engaging clues & facts. Built with React.js frontend & Spring Boot backend, it features real-time scoring, friend challenges & WhatsApp sharing. The mobile-responsive platform uses MongoDB for data storage & offers a modern UI with smooth animations. Perfect for learning geography while having fun!</p>
   
-  [Source Code](https://github.com/shreyanshtri26/geospatial-app)
+  [Source Code](https://github.com/shreyanshtri26/globetrotter)
 </div>
 
 </td>
-</tr>
 </table>
 
 <div align="center">
@@ -212,14 +212,13 @@ Full Stack Developer with proven expertise in React.js, Spring Boot, and cloud t
 </td>
 <td width="50%">
 
-### ✅ Task Management System
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
-- JWT authentication and role-based access control
-- Real-time WebSocket updates and API rate limiting
-- MVC architecture with secure password hashing
-- [Source Code](https://github.com/shreyanshtri26/task-management)
+### 🗺️ Geospatial-App
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?logo=leaflet&logoColor=white)
+- A web-based tool for geographical data interaction, built with React and Leaflet.js
+- Features drag-and-drop interface for GeoJSON and KML files, mapping, and custom shape creation tools. 
+- Provide provides a seamless experience for geospatial data visualization.
+- [Source Code](https://github.com/shreyanshtri26/geospatial-app)
 
 </td>
 </tr>
