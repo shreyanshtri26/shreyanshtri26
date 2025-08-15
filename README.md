@@ -24,12 +24,12 @@ Full Stack Developer with proven expertise in React.js, Spring Boot, and cloud t
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Web Technologies & Frameworks
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -82,14 +82,136 @@ Full Stack Developer with proven expertise in React.js, Spring Boot, and cloud t
 
 # 🌟 Featured Projects
 
-![Projects](https://img.shields.io/badge/Projects-8-blue)
-![Stack](https://img.shields.io/badge/Full%20Stack-5-orange)
+![Projects](https://img.shields.io/badge/Projects-10-blue)
+![Stack](https://img.shields.io/badge/Full%20Stack-7-orange)
 ![Active](https://img.shields.io/badge/Active-All-success)
 
 </div>
 
 <table>
 <tr>
+<td width="50%">
+
+<h3 align="center">🎨 ShapeXtrusion</h3>
+<div align="center">
+  <p>3D Modeling Tool</p>
+  
+  ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+  ![Babylon.js](https://img.shields.io/badge/Babylon.js-BB464B?logo=babylonjs&logoColor=white)
+  
+  <p>A React and Babylon.js web application that transforms 2D sketches into 3D objects directly in the browser. Features drawing tools, one-click extrusion, drag-and-drop movement, and vertex editing for model reshaping. Provides an intuitive interface for interactive 3D creation, turning your browser into a mini 3D design studio. Simple setup with dependency installation and server startup.</p>
+  
+  [Live Demo](https://shapextrusion.vercel.app/) | [Source Code](https://github.com/shreyanshtri26/shapextrusion)
+</div>
+
+</td>
+<td width="50%">
+
+<h3 align="center">🏥 Amrutam Consultation</h3>
+<div align="center">
+  <p>Healthcare Consultation Platform</p>
+  
+  ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+  
+  <p>A comprehensive healthcare consultation platform connecting patients with qualified doctors. Features doctor profiles, appointment booking, consultation scheduling, and patient management. Built with Next.js and modern React architecture with responsive design, providing seamless healthcare access through digital consultation services.</p>
+  
+  [Live Demo](https://amrutam-consultation-42fk.vercel.app/doctors) | [Source Code](https://github.com/shreyanshtri26/amrutam-consultation)
+</div>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+<h3 align="center">🎯 Tier Event Showcase</h3>
+<div align="center">
+  <p>Interactive Event Management Platform</p>
+  
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
+  ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+  
+  <p>A modern, responsive event showcase platform built with Next.js, React and TypeScript. Features dynamic event listings, interactive UI components, and smooth animations. Designed with Tailwind CSS for optimal user experience across all devices. Perfect for event organizers to display and manage their events with style and functionality.</p>
+  
+  [Live Demo](https://tier-event-showcase-9f7w.vercel.app/) | [Source Code](https://github.com/shreyanshtri26/tier-event-showcase)
+</div>
+
+</td>
+<td width="50%">
+
+<h3 align="center">🔮 SorcererSyntax Stream</h3>
+<div align="center">
+  <p>Interactive Coding Platform</p>
+  
+  ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+  ![WebSocket](https://img.shields.io/badge/WebSocket-010101?logo=websocket&logoColor=white)
+  
+  <p>An engaging coding education platform with interactive features and real-time collaboration capabilities. Built with Next.js for optimal performance. Designed for developers to learn, practice, and share coding knowledge through interactive tutorials and live coding sessions. Features syntax highlighting, code execution, and community-driven learning experiences.</p>
+  
+  [Live Demo](https://305.up.railway.app/) | [Source Code](https://github.com/shreyanshtri26/SorcererSyntax-stream)
+</div>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+<h3 align="center">💼 CRM ERP</h3>
+<div align="center">
+  <p>Enterprise Resource Planning System</p>
+  
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
+  ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+  
+  <p>A comprehensive ERP and CRM solution designed for modern businesses. Features customer relationship management, inventory tracking, financial reporting, and user authentication. Built with scalable architecture using Next.js/React frontend and Node.js backend. Includes dashboard analytics, role-based access control, and seamless data management capabilities.</p>
+  
+  [Live Demo](https://idurar-erp-crm-18mu.vercel.app/) | [Source Code](https://github.com/shreyanshtri26/idurar-erp-crm)
+</div>
+
+</td>
+<td width="50%">
+
+<h3 align="center">🚨 Disaster Response Platform</h3>
+<div align="center">
+  <p>Emergency Coordination System</p>
+  
+  ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+  ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?logo=socket.io&logoColor=white)
+  
+  <p>A real-time disaster response coordination platform designed to streamline emergency management. Features incident reporting, resource allocation, real-time communication, and geographic mapping. Enables efficient coordination between emergency responders, government agencies, and affected communities during crisis situations. Built with Next.js for optimal performance and responsive design for mobile and desktop accessibility.</p>
+  
+  [Live Demo](https://disaster-response-seven.vercel.app/admin) | [Source Code](https://github.com/shreyanshtri26/Disaster-Response-Coordination-Platform)
+</div>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+<h3 align="center">💰 CapraeCapital</h3>
+<div align="center">
+  <p>Financial Investment Platform</p>
+  
+  ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+  
+  <p>A comprehensive financial investment platform built with Next.js and TypeScript. Features modern portfolio management, investment tracking, and financial analytics. Designed with responsive UI using Tailwind CSS for optimal user experience. Provides tools for investors to monitor market trends, manage investments, and make informed financial decisions with real-time data visualization.</p>
+  
+  [Live Demo](https://caprae-capital-sandy.vercel.app/) | [Source Code](https://github.com/shreyanshtri26/CapraeCapital)
+</div>
+
+</td>
 <td width="50%">
 
 <h3 align="center">🏏 CRICBEAR</h3>
@@ -106,6 +228,9 @@ Full Stack Developer with proven expertise in React.js, Spring Boot, and cloud t
 </div>
 
 </td>
+</tr>
+
+<tr>
 <td width="50%">
 
 <h3 align="center">📚 ExamFlow</h3>
@@ -122,9 +247,6 @@ Full Stack Developer with proven expertise in React.js, Spring Boot, and cloud t
 </div>
 
 </td>
-</tr>
-
-<tr>
 <td width="50%">
 
 <h3 align="center">🎥 P2P Video Chat</h3>
@@ -141,90 +263,8 @@ Full Stack Developer with proven expertise in React.js, Spring Boot, and cloud t
 </div>
 
 </td>
-<td width="50%">
-
-<h3 align="center">🎨 ShapeXtrusion</h3>
-<div align="center">
-  <p>3D Modeling Tool</p>
-  
-  ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-  ![Babylon.js](https://img.shields.io/badge/Babylon.js-BB464B?logo=babylonjs&logoColor=white)
-  
-  <p>A React and Babylon.js web application that transforms 2D sketches into 3D objects directly in the browser. Features drawing tools, one-click extrusion, drag-and-drop movement, and vertex editing for model reshaping. Provides an intuitive interface for interactive 3D creation, turning your browser into a mini 3D design studio. Simple setup with dependency installation and server startup.</p>
-  
-  [Source Code](https://github.com/shreyanshtri26/shapextrusion)
-</div>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-<h3 align="center">🛒 E-commerce Platform</h3>
-<div align="center">
-  <p>Full-featured Shopping Platform</p>
-  
-  ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)
-  ![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-  
-  <p>A comprehensive e-commerce solution featuring user registration, authentication, and profile management. Includes a robust product catalog with advanced search and filtering capabilities. Implements shopping cart functionality, secure payment gateway integration, and wishlist features. Comes with a powerful admin panel for content management and store oversight.</p>
-  
-  [Source Code](https://github.com/shreyanshtri26/Ecommerce_site)
-</div>
-
-</td>
-<td width="50%">
-
-<h3 align="center">GlobeTrotter 🌎</h3>
-<div align="center">
-  <p>Interactive Geography Learning Platform</p>
-  
-  ![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
-  ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-  
-  <p>An interactive geography quiz game where players guess global destinations through engaging clues & facts. Built with React.js frontend & Spring Boot backend, it features real-time scoring, friend challenges & WhatsApp sharing. The mobile-responsive platform uses MongoDB for data storage & offers a modern UI with smooth animations. Perfect for learning geography while having fun!</p>
-  
-  [Source Code](https://github.com/shreyanshtri26/globetrotter)
-</div>
-
-</td>
-</table>
-
-<div align="center">
-
-## 🔍 More Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🌍 Travel Agency Management
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?logo=junit5&logoColor=white)
-- Java-based travel management system implementing SOLID principles
-- Comprehensive JUnit testing and clean code guidelines
-- Documented codebase with UML class diagrams
-- [Source Code](https://github.com/shreyanshtri26/travelagency)
-
-</td>
-<td width="50%">
-
-### 🗺️ Geospatial-App
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Leaflet](https://img.shields.io/badge/Leaflet-199900?logo=leaflet&logoColor=white)
-- A web-based tool for geographical data interaction, built with React and Leaflet.js
-- Features drag-and-drop interface for GeoJSON and KML files, mapping, and custom shape creation tools. 
-- Provide provides a seamless experience for geospatial data visualization.
-- [Source Code](https://github.com/shreyanshtri26/geospatial-app)
-
-</td>
 </tr>
 </table>
-
-</div>
 
 <div align="center">
 
