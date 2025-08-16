@@ -42,7 +42,7 @@
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
 🌟 **Passionate Full Stack Developer** with expertise in modern web technologies and cloud solutions
 
@@ -58,21 +58,21 @@
 
 **🎯 Current Focus Areas:**
 
-🏗️ Microservices Architecture & System Design
+🏗️ Microservices Architecture & System Design 
 
-☁️ Cloud-Native Development & DevOps
+☁️ Cloud-Native Development & DevOps 
 
-🤖 AI/ML Integration in Web Applications
+🤖 AI/ML Integration in Web Applications 
 
 🔗 Blockchain & Web3 Technologies
 
 
 </td>
-<td width="50%" align="center" valign="top">
+<td width="40%" align="center" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyanshtri26&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=36BCF7&card_width=400&card_height=350" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyanshtri26&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=36BCF7&card_width=400&card_height=500" />
 
-<img src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" height="300"/>
+<img src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="350" height="300"/>
 
 </td>
 </tr>
