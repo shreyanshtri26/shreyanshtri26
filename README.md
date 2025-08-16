@@ -57,17 +57,22 @@
 🚀 **Innovation-Driven** professional focused on creating impactful digital experiences
 
 **🎯 Current Focus Areas:**
+
 🏗️ Microservices Architecture & System Design
+
 ☁️ Cloud-Native Development & DevOps
+
 🤖 AI/ML Integration in Web Applications
+
 🔗 Blockchain & Web3 Technologies
+
 
 </td>
 <td width="50%" align="center" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyanshtri26&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=36BCF7&card_width=400" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyanshtri26&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=36BCF7&card_width=400&card_height=350" />
 
-<img src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" height="200"/>
+<img src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" height="300"/>
 
 </td>
 </tr>
@@ -117,7 +122,7 @@
 
 ---
 
-## <div align="center">🌟 **Featured Projects Portfolio** <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"></div>
+## <div align="center">🌟 **Projects Portfolio** <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"></div>
 
 <table width="100%">
 <tr>
