@@ -11,7 +11,7 @@
 <!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&multiline=false&width=780&lines=React+%E2%80%A2+TypeScript+%E2%80%A2+Spring+Boot+%E2%80%A2+Node.js+%E2%80%A2+Java;Cloud-Native+%7C+Microservices+%7C+DevOps+%7C+WebRTC;40%2B+APIs+Integrated+%E2%80%A2+CI%2FCD+Pipelines+%E2%80%A2+AWS+Serverless;AWS+Lambda+%E2%80%A2+Docker+%E2%80%A2+Kubernetes+%E2%80%A2+GitHub+Actions;300%2B+LeetCode+%E2%80%A2+University+Hackathon+Champion+%F0%9F%8F%86;Let%27s+build+something+production-ready+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&multiline=false&width=780&lines=React+%E2%80%A2+TypeScript+%E2%80%A2+Spring+Boot+%E2%80%A2+Node.js+%E2%80%A2+Java;Cloud-Native+%7C+Microservices+%7C+DevOps+%7C+WebRTC;200%2B+APIs+Integrated+%E2%80%A2+CI%2FCD+Pipelines+%E2%80%A2+AWS+Serverless;AWS+Lambda+%E2%80%A2+Docker+%E2%80%A2+Kubernetes+%E2%80%A2+GitHub+Actions;100%2B+LeetCode+%E2%80%A2+University+Hackathon+Champion+%F0%9F%8F%86;Let%27s+build+something+production-ready+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <br/>
