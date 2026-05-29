@@ -1,4 +1,4 @@
-<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
+﻿<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
 <!--                     ANIMATED HEADER BANNER                         -->
 <!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
@@ -47,7 +47,17 @@
 
 <br/>
 
+<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
+<!--                     CONTRIBUTIONS SNAKE                            -->
+<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
+
 <div align="center">
+
+<h2>🐍 GitHub Contributions</h2>
+
+
+<br/>
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shreyanshtri26/shreyanshtri26/output/github-contribution-grid-snake-dark.svg?v=1">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shreyanshtri26/shreyanshtri26/output/github-contribution-grid-snake.svg?v=1">
@@ -70,7 +80,6 @@
 </div>
 
 <!-- Languages gradient bar -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,50:a78bfa,100:f472b6&height=2" width="100%"/>
 
 **⚡ Languages**
 
@@ -166,7 +175,7 @@
 <td width="50%" valign="top">
 
 <!-- gradient title bar -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=90&text=🎨%20ShapeXtrusion&fontSize=28&fontColor=61DAFB&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=90&text=🎨%20ShapeXtrusion&fontSize=34&fontColor=61DAFB&section=header" width="100%"/>
 
 > **3D Modeling Tool** — Turn 2D sketches into fully interactive 3D objects in the browser at 60 FPS.
 
@@ -188,7 +197,7 @@
 
 <td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=90&text=🎥%20Voceo%20—%20P2P%20Video%20Chat&fontSize=24&fontColor=34d399&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=90&text=🎥%20Voceo%20—%20P2P%20Video%20Chat&fontSize=32&fontColor=34d399&section=header" width="100%"/>
 
 > **Video Conferencing** — Low-latency peer-to-peer video with screen sharing, E2E encryption & Docker deployment.
 
@@ -220,7 +229,7 @@
 
 <td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,25:1a0533,50:2d1060,75:4a0080,100:6b00a8&height=90&text=🔮%20SorcererSyntax%20Stream&fontSize=24&fontColor=f8c8ff&section=header&fontAlign=50&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,25:1a0533,50:2d1060,75:4a0080,100:6b00a8&height=90&text=🔮%20SorcererSyntax%20Stream&fontSize=32&fontColor=f8c8ff&section=header&fontAlign=50&fontAlignY=55" width="100%"/>
 
 > **Streaming Platform** — Movie & TV discovery with trailers, multi-theme UI, an AI chatbot companion.
 
@@ -242,7 +251,7 @@
 
 <td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=90&text=🏥%20Amrutam%20Consultation&fontSize=24&fontColor=a78bfa&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=90&text=🏥%20Amrutam%20Consultation&fontSize=32&fontColor=a78bfa&section=header" width="100%"/>
 
 > **Healthcare Platform** — Connects patients with doctors via smart scheduling & health analytics.
 
@@ -273,7 +282,7 @@
 
 <td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=90&text=🎪%20Tier%20Event%20Showcase&fontSize=24&fontColor=fbbf24&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=90&text=🎪%20Tier%20Event%20Showcase&fontSize=32&fontColor=fbbf24&section=header" width="100%"/>
 
 > **Event Management** — Dynamic event discovery with real-time listings & polished micro-animations.
 
@@ -298,7 +307,7 @@
 
 <td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=90&text=💰%20CapraeCapital&fontSize=26&fontColor=34d399&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=90&text=💰%20CapraeCapital&fontSize=34&fontColor=34d399&section=header" width="100%"/>
 
 > **Investment Analytics** — Portfolio tracker with AI recommendations & interactive data visualization.
 
@@ -329,7 +338,7 @@
 
 <td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=90&text=🚨%20Disaster%20Platform&fontSize=22&fontColor=f87171&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=90&text=🚨%20Disaster%20Platform&fontSize=32&fontColor=f87171&section=header" width="100%"/>
 
 > **Emergency Management** — Real-time crisis coordination with mapping & resource allocation.
 
@@ -348,7 +357,7 @@
 
 <td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=90&text=💼%20IDURAR%20ERP%20CRM&fontSize=26&fontColor=60a5fa&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=90&text=💼%20IDURAR%20ERP%20CRM&fontSize=34&fontColor=60a5fa&section=header" width="100%"/>
 
 > **Enterprise Platform** — Full ERP/CRM with inventory, financial reporting, RBAC & analytics dashboard.
 
@@ -379,7 +388,7 @@
 
 <td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=90&text=🏏%20CRICBEAR&fontSize=26&fontColor=a78bfa&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=90&text=🏏%20CRICBEAR&fontSize=34&fontColor=a78bfa&section=header" width="100%"/>
 
 > **Cricket Management** — Full tournament system with dual dashboards for admins, coaches & live scores.
 
@@ -399,7 +408,7 @@
 
 <td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=90&text=📚%20ExamFlow&fontSize=26&fontColor=34d399&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=90&text=📚%20ExamFlow&fontSize=34&fontColor=34d399&section=header" width="100%"/>
 
 > **Online Examination** — Multi-role exam system for students, teachers with JWT auth & analytics.
 
