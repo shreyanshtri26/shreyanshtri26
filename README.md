@@ -48,7 +48,11 @@
 <br/>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shreyanshtri26&bg_color=0D1117&color=a78bfa&line=7c3aed&point=f472b6&area=true&area_color=2d1b69&hide_border=true&custom_title=Shreyansh%27s%20Contribution%20Heatmap" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shreyanshtri26/shreyanshtri26/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shreyanshtri26/shreyanshtri26/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shreyanshtri26/shreyanshtri26/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <!-- ╔══════════════════════════════════════════════════════════════════╗ -->
