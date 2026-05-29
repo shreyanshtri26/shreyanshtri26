@@ -55,23 +55,7 @@
   </picture>
 </div>
 
-<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!--                       GITHUB TROPHIES                              -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=3&section=header" width="100%"/>
-
-<h2>🏆 GitHub Trophies</h2>
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=shreyanshtri26&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies"/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:0f0c29&height=3&section=header" width="100%"/>
-
-</div>
-
-<br/>
 
 
 
