@@ -244,7 +244,7 @@
 - 🤖 **AI chatbot companion** with bilingual TTS/STT
 - 🌐 **Three.js / WebGL** scenes per theme
 
-[![Demo](https://img.shields.io/badge/▶%20Live%20Demo-7c3aed?style=flat-square)](https://305-up.vercel.app/)
+[![Demo](https://img.shields.io/badge/▶%20Live%20Demo-7c3aed?style=flat-square)](https://sorcerer-syntax-stream.vercel.app/)
 [![Code](https://img.shields.io/badge/⌥%20Source-24292e?style=flat-square&logo=github&logoColor=white)](https://github.com/shreyanshtri26/SorcererSyntax-stream)
 
 </td>
