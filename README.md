@@ -1,24 +1,12 @@
-﻿<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!--                     ANIMATED HEADER BANNER                         -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
-
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,80:24243e,100:0f0c29&height=220&section=header&text=Shreyansh%20Tripathi&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20AWS%20Certified%20AI%20Practitioner%20%7C%20Open%20to%20Collaborate&descAlignY=62&descSize=16&descColor=a78bfa" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,80:24243e,100:0f0c29&height=220&section=header&text=Shreyansh%20Tripathi&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20AWS%20Certified%20AI%20Practitioner%20%7C%20Open%20to%20Collaborate&descAlignY=62&descSize=16&descColor=a78bfa" alt="Shreyansh Tripathi - Full Stack Engineer" />
 </div>
 
-<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!--                       TYPING ANIMATION                             -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&multiline=false&width=780&lines=React+%E2%80%A2+TypeScript+%E2%80%A2+Spring+Boot+%E2%80%A2+Node.js+%E2%80%A2+Java;Cloud-Native+%7C+Microservices+%7C+DevOps+%7C+WebRTC;200%2B+APIs+Integrated+%E2%80%A2+CI%2FCD+Pipelines+%E2%80%A2+AWS+Serverless;AWS+Lambda+%E2%80%A2+Docker+%E2%80%A2+Kubernetes+%E2%80%A2+GitHub+Actions;100%2B+LeetCode+%E2%80%A2+University+Hackathon+Champion+%F0%9F%8F%86;Let%27s+build+something+production-ready+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&multiline=false&width=780&lines=React+%E2%80%A2+TypeScript+%E2%80%A2+Spring+Boot+%E2%80%A2+Node.js+%E2%80%A2+Java;Cloud-Native+%7C+Microservices+%7C+DevOps+%7C+WebRTC;40%2B+REST+APIs+Integrated+%E2%80%A2+CI%2FCD+Pipelines+%E2%80%A2+AWS+Serverless;AWS+Lambda+%E2%80%A2+Docker+%E2%80%A2+Kubernetes+%E2%80%A2+GitHub+Actions;AWS+Certified+AI+Practitioner+%E2%80%A2+University+Hackathon+Champion;Building+production-ready+software" alt="Typing SVG" />
 </div>
 
 <br/>
-
-<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!--                        SOCIAL LINKS ROW                            -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
@@ -37,460 +25,351 @@
 
 <br/>
 
-<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!--                      SKILL ICONS GRID                              -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
-
-
-
-</div>
-
-<br/>
-
-<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!--                     CONTRIBUTIONS SNAKE                            -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
-
 <div align="center">
 
-<h2>🐍 GitHub Contributions</h2>
-
-
-<br/>
+<h2><b>GitHub Contributions</b></h2>
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shreyanshtri26/shreyanshtri26/output/github-contribution-grid-snake-dark.svg?v=1">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shreyanshtri26/shreyanshtri26/output/github-contribution-grid-snake.svg?v=1">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shreyanshtri26/shreyanshtri26/output/github-contribution-grid-snake.svg?v=1">
+    <img alt="GitHub contribution graph" src="https://raw.githubusercontent.com/shreyanshtri26/shreyanshtri26/output/github-contribution-grid-snake.svg?v=1">
   </picture>
 </div>
 
-
-
-
-
 <br/>
 
-<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!--                    TECH STACK — GRADIENT SECTIONS                  -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=130&section=header&text=Featured%20Projects&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Web%20Apps%20%7C%20AI%20Reliability%20%7C%20Real-time%20Comms%20%7C%203D%20Graphics%20%7C%20Media%20Platforms&descAlignY=65&descSize=15&descColor=a78bfa" alt="Featured Projects" />
 
-<div align="center">
-<h2>🛠️ Tech Stack</h2>
-</div>
-
-<!-- Languages gradient bar -->
-
-**⚡ Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-
-<!-- Frontend gradient bar -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1d4ed8,50:6366f1,100:a78bfa&height=2" width="100%"/>
-
-**🖼️ Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
-![Babylon.js](https://img.shields.io/badge/Babylon.js-BB464B?style=flat-square&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-
-<!-- Backend gradient bar -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:065f46,50:059669,100:34d399&height=2" width="100%"/>
-
-**⚙️ Backend**
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-<!-- Cloud gradient bar -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:78350f,50:d97706,100:fbbf24&height=2" width="100%"/>
-
-**☁️ Cloud & AWS**
-
-![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
-![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
-![AWS CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)
-![AWS IAM](https://img.shields.io/badge/AWS_IAM-DD344C?style=flat-square&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-
-<!-- DevOps gradient bar -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:164e63,50:0891b2,100:67e8f9&height=2" width="100%"/>
-
-**🔁 DevOps & Tools**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Azure Pipelines](https://img.shields.io/badge/Azure_Pipelines-2560E0?style=flat-square&logo=azurepipelines&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
-![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-<!-- Databases gradient bar -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7f1d1d,50:dc2626,100:f87171&height=2" width="100%"/>
-
-**🗄️ Databases**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-<br/>
-
-<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!--                     FEATURED PROJECTS                              -->
-<!-- Ordered: 1.ShapeXtrusion 2.P2P 3.SorcererSyntax(solo)             -->
-<!--          4.Amrutam 5.Tier Event 6.CapraeCapital 7.Disaster 8.ERP  -->
-<!--          9.CRICBEAR 10.ExamFlow                                    -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,40:a78bfa,70:f472b6,100:fb923c&height=100&text=🚀%20Featured%20Projects&fontSize=36&fontColor=ffffff&section=header&fontAlignY=55&desc=Production-grade%20apps%20%E2%80%94%203D%20graphics%20%7C%20Real-time%20comms%20%7C%20Fintech%20%7C%20Healthcare%20%7C%20Enterprise&descSize=14&descColor=e9d5ff&descAlignY=78" width="100%"/>
-
-<br/>
-
-<!-- ── PROJECT 1 + 2 ── -->
-
-<table width="100%">
+<table width="100%" cellpadding="15" cellspacing="0" style="border-collapse: collapse;">
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
 
-<!-- gradient title bar -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=90&text=🎨%20ShapeXtrusion&fontSize=34&fontColor=61DAFB&section=header" width="100%"/>
+<h3 align="left"><b>OpenPress</b></h3>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1d4ed8,50:6366f1,100:a78bfa&height=2" width="100%" alt=""/>
+<p align="left"><strong>Publishing Platform</strong></p>
 
-> **3D Modeling Tool** — Turn 2D sketches into fully interactive 3D objects in the browser at 60 FPS.
+<p align="left">Independent news site with an ePaper reader and a separate newsroom dashboard for publishing stories.</p>
 
-| **Stack** | React · Babylon.js · Three.js · WebGL |
-|---|---|
-| **Type** | Browser-native 3D engine |
-| **Impact** | 50% reduction in design iteration time |
-| **Status** | ✅ Live |
+<p align="left">
+• Nine editorial sections, free to read<br/>
+• ePaper reader with subscriber sign-in<br/>
+• Separate newsroom dashboard for publishing
+</p>
 
-- ⚡ Real-time WebGL rendering at **60 FPS**
-- 🎯 Freehand 2D drawing → instant 3D extrusion
-- 🔧 Advanced vertex & mesh editing tools
-- 📱 Cross-platform, fully responsive
+<p align="left">
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>&nbsp;
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare"/>&nbsp;
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+</p>
 
-[![Demo](https://img.shields.io/badge/▶%20Live%20Demo-7c3aed?style=flat-square&logoColor=white)](https://shapextrusion.vercel.app/)
-[![Code](https://img.shields.io/badge/⌥%20Source-24292e?style=flat-square&logo=github&logoColor=white)](https://github.com/shreyanshtri26/shapextrusion)
-
-</td>
-
-<td width="50%" valign="top">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=90&text=🎥%20Voceo%20—%20P2P%20Video%20Chat&fontSize=32&fontColor=34d399&section=header" width="100%"/>
-
-> **Video Conferencing** — Low-latency peer-to-peer video with screen sharing, E2E encryption & Docker deployment.
-
-| **Stack** | WebRTC · Socket.IO · Spring Boot · Docker · Nginx |
-|---|---|
-| **Type** | Real-time P2P Communication |
-| **Arch** | Signaling server + STUN/TURN relay |
-| **Status** | ✅ Live |
-
-- 📹 Ultra low-latency **WebRTC** P2P streaming
-- 🖥️ Screen sharing with granular controls
-- 🔐 End-to-end encrypted sessions
-- 🐳 Dockerized + **Nginx** HTTPS termination
-
-[![Demo](https://img.shields.io/badge/▶%20Live%20Demo-7c3aed?style=flat-square)](https://voceo-p2p.onrender.com/)
-[![Code](https://img.shields.io/badge/⌥%20Source-24292e?style=flat-square&logo=github&logoColor=white)](https://github.com/shreyanshtri26/P2P-Video-Chat)
+<p align="left">
+<a href="https://openpress-news.pages.dev"><img src="https://img.shields.io/badge/Live_Demo-0078D4?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo"/></a>&nbsp;
+<a href="https://openpress-publish.pages.dev"><img src="https://img.shields.io/badge/Dashboard-0078D4?style=flat-square&logo=vercel&logoColor=white" alt="Dashboard"/></a>&nbsp;
+<a href="https://github.com/shreyanshtri26/OpenPress"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" alt="Source Code"/></a>
+</p>
 
 </td>
 
+<td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
+
+<h3 align="left"><b>EvalBeacon</b></h3>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:065f46,50:059669,100:34d399&height=2" width="100%" alt=""/>
+<p align="left"><strong>AI Reliability</strong></p>
+
+<p align="left">Release gates for LLM and agent changes — blocks a release when quality, cost, or latency regresses.</p>
+
+<p align="left">
+• Gates on quality, cost, and latency<br/>
+• OpenTelemetry trace for every test case<br/>
+• Works with four model providers
+</p>
+
+<p align="left">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>&nbsp;
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>&nbsp;
+<img src="https://img.shields.io/badge/OpenTelemetry-F5A800?style=flat-square&logo=opentelemetry&logoColor=white" alt="OpenTelemetry"/>
+</p>
+
+<p align="left">
+<a href="https://evalbeacon.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-0078D4?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo"/></a>&nbsp;
+<a href="https://github.com/shreyanshtri26/EvalBeacon"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" alt="Source Code"/></a>
+</p>
+
+</td>
 </tr>
-</table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,30:a78bfa,70:f472b6,100:fb923c&height=2" width="100%"/>
-
-<!-- ── PROJECT 3 + 4 ── SorcererSyntax + Amrutam -->
-
-<table width="100%">
 <tr>
+<td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
 
-<td width="50%" valign="top">
+<h3 align="left"><b>Voceo</b></h3>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:78350f,50:d97706,100:fbbf24&height=2" width="100%" alt=""/>
+<p align="left"><strong>Real-time Communication</strong></p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,25:1a0533,50:2d1060,75:4a0080,100:6b00a8&height=90&text=🔮%20SorcererSyntax%20Stream&fontSize=32&fontColor=f8c8ff&section=header&fontAlign=50&fontAlignY=55" width="100%"/>
+<p align="left">Peer-to-peer video meetings with screen sharing and end-to-end encrypted sessions.</p>
 
-> **Streaming Platform** — Movie & TV discovery with trailers, multi-theme UI, an AI chatbot companion.
+<p align="left">
+• Low-latency WebRTC streaming<br/>
+• STUN/TURN relay for restrictive networks<br/>
+• Docker deployment behind Nginx with HTTPS
+</p>
 
-| **Stack** | React · Vite · TMDB API · Three.js |
-|---|---|
-| **Type** | Media / Entertainment Platform |
-| **Themes** | 🔥 Fire Devil · 🎞️ Black & White · 🌊 Hannibal |
-| **Status** | ✅ Live |
+<p align="left">
+<img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" alt="WebRTC"/>&nbsp;
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/>&nbsp;
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.IO"/>&nbsp;
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+</p>
 
-- 📺 Trailer previews + smart streaming fallback chain
-- 🎨 **3-theme switcher** with animated transitions
-- 🤖 **AI chatbot companion** with bilingual TTS/STT
-- 🌐 **Three.js / WebGL** scenes per theme
-
-[![Demo](https://img.shields.io/badge/▶%20Live%20Demo-7c3aed?style=flat-square)](https://sorcerer-syntax-stream.vercel.app/)
-[![Code](https://img.shields.io/badge/⌥%20Source-24292e?style=flat-square&logo=github&logoColor=white)](https://github.com/shreyanshtri26/SorcererSyntax-stream)
-
-</td>
-
-<td width="50%" valign="top">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=90&text=🏥%20Amrutam%20Consultation&fontSize=32&fontColor=a78bfa&section=header" width="100%"/>
-
-> **Healthcare Platform** — Connects patients with doctors via smart scheduling & health analytics.
-
-| **Stack** | Next.js · TypeScript · Tailwind CSS |
-|---|---|
-| **Type** | Healthcare SaaS |
-| **Status** | ✅ Live |
-
-- 👨‍⚕️ Filterable, verified doctor profiles
-- 📅 Smart appointment scheduling engine
-- 💬 Secure patient-doctor messaging
-- 📊 Comprehensive health analytics
-
-[![Demo](https://img.shields.io/badge/▶%20Live%20Demo-7c3aed?style=flat-square)](https://amrutam-consultation-42fk.vercel.app/doctors)
-[![Code](https://img.shields.io/badge/⌥%20Source-24292e?style=flat-square&logo=github&logoColor=white)](https://github.com/shreyanshtri26/amrutam-consultation)
+<p align="left">
+<a href="https://voceo-p2p.onrender.com/"><img src="https://img.shields.io/badge/Live_Demo-0078D4?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo"/></a>&nbsp;
+<a href="https://github.com/shreyanshtri26/P2P-Video-Chat"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" alt="Source Code"/></a>
+</p>
 
 </td>
 
+<td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
+
+<h3 align="left"><b>ShapeXtrusion</b></h3>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:164e63,50:0891b2,100:67e8f9&height=2" width="100%" alt=""/>
+<p align="left"><strong>3D Graphics</strong></p>
+
+<p align="left">Browser-based 3D modeler that turns 2D sketches into editable 3D objects.</p>
+
+<p align="left">
+• Real-time rendering at 60 FPS<br/>
+• Sketch-to-3D in a single flow<br/>
+• 50% faster design iteration
+</p>
+
+<p align="left">
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>&nbsp;
+<img src="https://img.shields.io/badge/Babylon.js-BB464B?style=flat-square&logoColor=white" alt="Babylon.js"/>&nbsp;
+<img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js"/>&nbsp;
+<img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white" alt="WebGL"/>
+</p>
+
+<p align="left">
+<a href="https://shapextrusion.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-0078D4?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo"/></a>&nbsp;
+<a href="https://github.com/shreyanshtri26/shapextrusion"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" alt="Source Code"/></a>
+</p>
+
+</td>
 </tr>
-</table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1d4ed8,30:6366f1,70:a78bfa,100:f472b6&height=2" width="100%"/>
-
-<!-- ── PROJECT 5 + 6 ── Tier Event + CapraeCapital -->
-
-<table width="100%">
 <tr>
+<td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
 
-<td width="50%" valign="top">
+<h3 align="left"><b>CRICBEAR</b></h3>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7f1d1d,50:dc2626,100:f87171&height=2" width="100%" alt=""/>
+<p align="left"><strong>Sports Management</strong></p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=90&text=🎪%20Tier%20Event%20Showcase&fontSize=32&fontColor=fbbf24&section=header" width="100%"/>
+<p align="left">Cricket tournament platform with role-based admin, coach, and public views.</p>
 
-> **Event Management** — Dynamic event discovery with real-time listings & polished micro-animations.
+<p align="left">
+• Automatic fixture scheduling<br/>
+• Role-based admin and coach dashboards<br/>
+• Public scorecards and standings
+</p>
 
-| **Stack** | Next.js · TypeScript · Tailwind CSS |
-|---|---|
-| **Type** | Event Management Platform |
-| **Status** | ✅ Live |
+<p align="left">
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/>&nbsp;
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>&nbsp;
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+</p>
 
-- ✨ Polished, fully responsive UI
-- ⚡ Real-time dynamic event feeds
-- 🎭 Interactive component system
-- 🌟 Smooth animation micro-system
-
-[![Demo](https://img.shields.io/badge/▶%20Live%20Demo-7c3aed?style=flat-square)](https://tier-event-showcase-9f7w.vercel.app/)
-[![Code](https://img.shields.io/badge/⌥%20Source-24292e?style=flat-square&logo=github&logoColor=white)](https://github.com/shreyanshtri26/tier-event-showcase)
-
-</td>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:065f46,30:059669,70:34d399,100:67e8f9&height=2" width="100%"/>
-
-<!-- ── PROJECT 6 + 7 ── CapraeCapital + Disaster -->
-
-<td width="50%" valign="top">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=90&text=💰%20CapraeCapital&fontSize=34&fontColor=34d399&section=header" width="100%"/>
-
-> **Investment Analytics** — Portfolio tracker with AI recommendations & interactive data visualization.
-
-| **Stack** | React · TypeScript · Chart.js |
-|---|---|
-| **Type** | FinTech / Analytics |
-| **Status** | ✅ Live |
-
-- 📊 Real-time portfolio tracking dashboard
-- 💹 Multi-metric market analysis
-- 🤖 AI-powered investment insights
-- 📈 Interactive charts & data viz
-
-[![Demo](https://img.shields.io/badge/▶%20Live%20Demo-7c3aed?style=flat-square)](https://caprae-capital-sandy.vercel.app/)
-[![Code](https://img.shields.io/badge/⌥%20Source-24292e?style=flat-square&logo=github&logoColor=white)](https://github.com/shreyanshtri26/CapraeCapital)
+<p align="left">
+<a href="https://cricbear.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-0078D4?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo"/></a>&nbsp;
+<a href="https://cricbear.vercel.app/admin"><img src="https://img.shields.io/badge/Admin_Panel-0078D4?style=flat-square&logo=vercel&logoColor=white" alt="Admin Panel"/></a>&nbsp;
+<a href="https://github.com/shreyanshtri26/CRICBEAR"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" alt="Source Code"/></a>
+</p>
 
 </td>
 
-</tr>
-</table>
+<td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:065f46,30:059669,70:34d399,100:67e8f9&height=2" width="100%"/>
+<h3 align="left"><b>SorcererSyntax</b></h3>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4c1d95,50:7c3aed,100:c4b5fd&height=2" width="100%" alt=""/>
+<p align="left"><strong>Media Platform</strong></p>
 
-<!-- ── PROJECT 7 + 8 ── Disaster + ERP -->
+<p align="left">Movie and TV discovery with trailers, three switchable themes, and a built-in AI assistant.</p>
 
-<table width="100%">
-<tr>
+<p align="left">
+• Three themes with 3D scenes<br/>
+• Trailers with streaming fallback<br/>
+• Bilingual voice AI chat
+</p>
 
-<td width="50%" valign="top">
+<p align="left">
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>&nbsp;
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>&nbsp;
+<img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js"/>&nbsp;
+<img src="https://img.shields.io/badge/TMDB_API-01B4E4?style=flat-square&logo=themoviedatabase&logoColor=white" alt="TMDB API"/>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=90&text=🚨%20Disaster%20Platform&fontSize=32&fontColor=f87171&section=header" width="100%"/>
-
-> **Emergency Management** — Real-time crisis coordination with mapping & resource allocation.
-
-| **Stack** | React · Node.js · Socket.IO |
-|---|---|
-| **Type** | Emergency Management System |
-| **Status** | ✅ Live |
-
-- 🚨 Live incident reporting pipeline
-- 📍 Interactive geographic incident map
-- 📡 Real-time communication relay
-- 🎯 Smart resource tracking & dispatch
-
-[![Demo](https://img.shields.io/badge/▶%20Live%20Demo-7c3aed?style=flat-square)](https://disaster-response-seven.vercel.app/admin)
-[![Code](https://img.shields.io/badge/⌥%20Source-24292e?style=flat-square&logo=github&logoColor=white)](https://github.com/shreyanshtri26/Disaster-Response-Coordination-Platform)
-
-<td width="50%" valign="top">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=90&text=💼%20IDURAR%20ERP%20CRM&fontSize=34&fontColor=60a5fa&section=header" width="100%"/>
-
-> **Enterprise Platform** — Full ERP/CRM with inventory, financial reporting, RBAC & analytics dashboard.
-
-| **Stack** | Next.js · Node.js · MongoDB |
-|---|---|
-| **Type** | Enterprise ERP / CRM |
-| **Status** | ✅ Live |
-
-- 📊 Advanced real-time analytics
-- 👥 Granular role-based access control
-- 💰 Full financial reporting suite
-- 📦 Intelligent inventory management
-
-[![Demo](https://img.shields.io/badge/▶%20Live%20Demo-7c3aed?style=flat-square)](https://idurar-erp-crm-18mu.vercel.app/)
-[![Code](https://img.shields.io/badge/⌥%20Source-24292e?style=flat-square&logo=github&logoColor=white)](https://github.com/shreyanshtri26/idurar-erp-crm)
+<p align="left">
+<a href="https://sorcerer-syntax-stream.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-0078D4?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo"/></a>&nbsp;
+<a href="https://github.com/shreyanshtri26/SorcererSyntax-stream"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" alt="Source Code"/></a>
+</p>
 
 </td>
-
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7f1d1d,30:dc2626,70:f87171,100:fbbf24&height=2" width="100%"/>
-
-<!-- ── PROJECT 9 + 10 ── CRICBEAR + ExamFlow -->
-
-<table width="100%">
-<tr>
-
-<td width="50%" valign="top">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=90&text=🏏%20CRICBEAR&fontSize=34&fontColor=a78bfa&section=header" width="100%"/>
-
-> **Cricket Management** — Full tournament system with dual dashboards for admins, coaches & live scores.
-
-| **Stack** | Spring Boot · React · MySQL · WebSocket |
-|---|---|
-| **Type** | Tournament Management System |
-| **Status** | ✅ Live |
-
-- 🏟️ End-to-end tournament management
-- 📊 Player statistics & analytics engine
-- 👨‍💻 Separate admin & coach dashboards
-- 📱 Live public score feed via WebSocket
-
-[![Code](https://img.shields.io/badge/⌥%20Source-24292e?style=flat-square&logo=github&logoColor=white)](https://github.com/shreyanshtri26/CRICBEAR)
-
-</td>
-
-<td width="50%" valign="top">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=90&text=📚%20ExamFlow&fontSize=34&fontColor=34d399&section=header" width="100%"/>
-
-> **Online Examination** — Multi-role exam system for students, teachers with JWT auth & analytics.
-
-| **Stack** | Node.js · React · MongoDB · JWT |
-|---|---|
-| **Type** | EdTech Platform |
-| **Status** | ✅ Live |
-
-- 📝 Comprehensive online test engine
-- 👨‍🏫 Teacher portal & question builder
-- 👩‍🎓 Student performance analytics
-- 🔒 Secure JWT + RBAC auth layer
-
-[![Code](https://img.shields.io/badge/⌥%20Source-24292e?style=flat-square&logo=github&logoColor=white)](https://github.com/shreyanshtri26/ExamFlow)
-
-</td>
-
 </tr>
 </table>
 
 <br/>
 
-<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!--                      LEETCODE STATS                                -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
+---
 
-<div align="center">
+<h2 align="left"><b>Technical Expertise</b></h2>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,50:a78bfa,100:f472b6&height=2" width="100%"/>
+<div align="left">
 
-<br/>
+<h3 align="left"><b>Languages</b></h3>
+<p align="left">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>&nbsp;
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>&nbsp;
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>&nbsp;
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
+</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1d4ed8,50:6366f1,100:a78bfa&height=2" width="100%" alt=""/>
+<br/><br/>
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/shreyanshtri26?theme=dark)](https://leetcode.com/shreyanshtri26)
+<h3 align="left"><b>Frontend</b></h3>
+<p align="left">
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>&nbsp;
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>&nbsp;
+<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native"/>&nbsp;
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux"/>&nbsp;
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>&nbsp;
+<img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white" alt="shadcn/ui"/>&nbsp;
+<img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js"/>&nbsp;
+<img src="https://img.shields.io/badge/Babylon.js-BB464B?style=flat-square&logoColor=white" alt="Babylon.js"/>&nbsp;
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
+</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:065f46,50:059669,100:34d399&height=2" width="100%" alt=""/>
+<br/><br/>
+
+<h3 align="left"><b>Backend</b></h3>
+<p align="left">
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/>&nbsp;
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>&nbsp;
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js"/>&nbsp;
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>&nbsp;
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL"/>&nbsp;
+<img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSocket"/>&nbsp;
+<img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" alt="WebRTC"/>&nbsp;
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/>&nbsp;
+<img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="REST APIs"/>
+</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:78350f,50:d97706,100:fbbf24&height=2" width="100%" alt=""/>
+<br/><br/>
+
+<h3 align="left"><b>Cloud</b></h3>
+<p align="left">
+<img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" alt="AWS Lambda"/>&nbsp;
+<img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white" alt="AWS S3"/>&nbsp;
+<img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" alt="AWS EC2"/>&nbsp;
+<img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white" alt="CloudWatch"/>&nbsp;
+<img src="https://img.shields.io/badge/AWS_IAM-DD344C?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS IAM"/>&nbsp;
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure"/>&nbsp;
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare"/>&nbsp;
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
+</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:164e63,50:0891b2,100:67e8f9&height=2" width="100%" alt=""/>
+<br/><br/>
+
+<h3 align="left"><b>DevOps & Observability</b></h3>
+<p align="left">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>&nbsp;
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/>&nbsp;
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/>&nbsp;
+<img src="https://img.shields.io/badge/Azure_Pipelines-2560E0?style=flat-square&logo=azurepipelines&logoColor=white" alt="Azure Pipelines"/>&nbsp;
+<img src="https://img.shields.io/badge/OpenTelemetry-F5A800?style=flat-square&logo=opentelemetry&logoColor=white" alt="OpenTelemetry"/>&nbsp;
+<img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white" alt="NGINX"/>&nbsp;
+<img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest"/>&nbsp;
+<img src="https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white" alt="JUnit"/>&nbsp;
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7f1d1d,50:dc2626,100:f87171&height=2" width="100%" alt=""/>
+<br/><br/>
+
+<h3 align="left"><b>Databases</b></h3>
+<p align="left">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>&nbsp;
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>&nbsp;
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>&nbsp;
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>&nbsp;
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
+</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4c1d95,50:7c3aed,100:c4b5fd&height=2" width="100%" alt=""/>
 
 </div>
 
 <br/>
 
-<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!--                   ACHIEVEMENTS BANNER                              -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
+---
 
-<div align="center">
+<h2 align="left"><b>Highlights</b></h2>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,50:a78bfa,100:f472b6&height=2" width="100%"/>
+<div align="left">
+  
+<h3 align="left"><b>Competition</b></h3>
+<p align="left">1st Place, University Hackathon (IoT Emergency Management System)</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1d4ed8,50:6366f1,100:a78bfa&height=2" width="100%" alt=""/>
+<br/><br/>
 
-<h2>🎖️ Achievements</h2>
+<h3 align="left"><b>Certification</b></h3>
+<p align="left">AWS Certified AI Practitioner (AIF-C01)</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:065f46,50:059669,100:34d399&height=2" width="100%" alt=""/>
+<br/><br/>
 
-| 🏆 | Achievement |
-|:---:|:---|
-| 🥇 | **1st Place** — University Hackathon (IoT Emergency Management System) |
-| ☁️ | **AWS Certified AI Practitioner** (AIF-C01) |
-| 💻 | **100+ LeetCode** problems solved |
-| ⭐ | **200+ GitHub Stars** across 10+ public repositories |
-| 📱 | **40% mobile engagement uplift** via React Native (production) |
-| 🔁 | **67% → 90% test coverage** improvement in production codebase |
-| 🔌 | **40+ REST APIs** integrated in a single production platform |
+<h3 align="left"><b>Problem Solving</b></h3>
+<p align="left">100+ LeetCode problems solved</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:78350f,50:d97706,100:fbbf24&height=2" width="100%" alt=""/>
+<br/><br/>
+
+<h3 align="left"><b>Open Source</b></h3>
+<p align="left">200+ GitHub stars across 10+ public repositories</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:164e63,50:0891b2,100:67e8f9&height=2" width="100%" alt=""/>
+<br/><br/>
+
+<h3 align="left"><b>Mobile</b></h3>
+<p align="left">40% engagement uplift with React Native in production</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7f1d1d,50:dc2626,100:f87171&height=2" width="100%" alt=""/>
+<br/><br/>
+
+<h3 align="left"><b>Quality</b></h3>
+<p align="left">Test coverage raised from 67% to 90% in a production codebase</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4c1d95,50:7c3aed,100:c4b5fd&height=2" width="100%" alt=""/>
+<br/><br/>
+
+<h3 align="left"><b>Integration</b></h3>
+<p align="left">40+ REST APIs integrated in a single production platform</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:a78bfa&height=2" width="100%" alt=""/>
 
 </div>
 
 <br/>
 
-<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!--                         FOOTER                                     -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
+---
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center">💡&nbsp;<b>Open to Full Stack Roles</b></td>
-    <td align="center">🤝&nbsp;<b>Collaborate on Open Source</b></td>
-    <td align="center">☕&nbsp;<b>Always Up for a Tech Chat</b></td>
-  </tr>
-</table>
+<h2><b>Contact</b></h2>
+
+<p>Open to full stack roles and open-source collaboration.</p>
 
 <br/>
 
-> *"First, solve the problem. Then, write the code."* — John Johnson
+[![Email](https://img.shields.io/badge/Email-shreyanshtripathi1999%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shreyanshtripathi1999@gmail.com)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyanshtri26/)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shreyanshtri26)
+
+</div>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,80:24243e,100:0f0c29&height=110&section=footer&text=Thanks%20for%20visiting!%20Drop%20a%20⭐%20if%20you%20like%20what%20you%20see!&fontSize=15&fontColor=a78bfa&animation=twinkling" />
-
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,80:24243e,100:0f0c29&height=110&section=footer&animation=twinkling" alt=""/>
 </div>
