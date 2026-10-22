@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&multiline=false&width=780&lines=React+%E2%80%A2+TypeScript+%E2%80%A2+Spring+Boot+%E2%80%A2+Node.js+%E2%80%A2+Java;Cloud-Native+%7C+Microservices+%7C+DevOps+%7C+WebRTC;40%2B+REST+APIs+Integrated+%E2%80%A2+CI%2FCD+Pipelines+%E2%80%A2+AWS+Serverless;AWS+Lambda+%E2%80%A2+Docker+%E2%80%A2+Kubernetes+%E2%80%A2+GitHub+Actions;AWS+Certified+AI+Practitioner+%E2%80%A2+University+Hackathon+Champion;Building+production-ready+software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&multiline=false&width=780&lines=Full-Stack+Engineering+%E2%80%A2+AI%2FLLM+Observability+%E2%80%A2+Real-time+Systems;React+%E2%80%A2+TypeScript+%E2%80%A2+Node.js+%E2%80%A2+Spring+Boot+%E2%80%A2+Python;Enterprise+CRM+%E2%80%A2+LLM+Release+Gates+%E2%80%A2+RAG+Pipelines+%E2%80%A2+WebRTC;40%2B+REST+APIs+Integrated+%E2%80%A2+CI%2FCD+Pipelines+%E2%80%A2+AWS+Serverless;AWS+Certified+AI+Practitioner+%E2%80%A2+University+Hackathon+Champion" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -38,7 +38,7 @@
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=130&section=header&text=Featured%20Projects&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Web%20Apps%20%7C%20AI%20Reliability%20%7C%20Real-time%20Comms%20%7C%203D%20Graphics%20%7C%20Media%20Platforms&descAlignY=65&descSize=15&descColor=a78bfa" alt="Featured Projects" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=130&section=header&text=Featured%20Projects&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Web%20Apps%20%7C%20LLM%20Observability%20%7C%20Real-time%20Comms%20%7C%203D%20Graphics%20%7C%20Enterprise%20CRM&descAlignY=65&descSize=15&descColor=a78bfa" alt="Featured Projects" />
 
 <table width="100%" cellpadding="15" cellspacing="0" style="border-collapse: collapse;">
 <tr>
@@ -47,19 +47,21 @@
 
 <h3 align="left"><b>OpenPress</b></h3>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1d4ed8,50:6366f1,100:a78bfa&height=2" width="100%" alt=""/>
-<p align="left"><strong>Publishing Platform</strong></p>
+<p align="left"><strong>Publishing Platform & CRM</strong></p>
 
-<p align="left">Independent news site with an ePaper reader and a separate newsroom dashboard for publishing stories.</p>
+<p align="left">Independent news platform powered by a custom <strong>Node.js CRM backend</strong> for editorial workflow and subscriber management.</p>
 
 <p align="left">
-• Nine editorial sections, free to read<br/>
-• ePaper reader with subscriber sign-in<br/>
-• Separate newsroom dashboard for publishing
+• Custom <strong>CRM</strong> for editors to manage content and workflows<br/>
+• Nine editorial sections with public ePaper reader<br/>
+• Subscriber sign-in and access management
 </p>
 
 <p align="left">
+<img src="https://img.shields.io/badge/CRM-4F46E5?style=flat-square&logo=databricks&logoColor=white" alt="CRM"/>&nbsp;
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>&nbsp;
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare"/>&nbsp;
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>&nbsp;
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js"/>&nbsp;
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 </p>
 
@@ -75,17 +77,18 @@
 
 <h3 align="left"><b>EvalBeacon</b></h3>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:065f46,50:059669,100:34d399&height=2" width="100%" alt=""/>
-<p align="left"><strong>AI Reliability</strong></p>
+<p align="left"><strong>LLM Reliability Platform</strong></p>
 
-<p align="left">Release gates for LLM and agent changes — blocks a release when quality, cost, or latency regresses.</p>
+<p align="left">Automated release gates specifically designed for <strong>LLM</strong> and AI agent deployments, ensuring production models maintain quality and performance.</p>
 
 <p align="left">
-• Gates on quality, cost, and latency<br/>
-• OpenTelemetry trace for every test case<br/>
-• Works with four model providers
+• Prevents <strong>LLM</strong> regressions in quality, cost, and latency<br/>
+• End-to-end OpenTelemetry tracing for <strong>LLM</strong> test cases<br/>
+• Multi-provider support for evaluating different <strong>LLM</strong> APIs
 </p>
 
 <p align="left">
+<img src="https://img.shields.io/badge/LLM-8B5CF6?style=flat-square&logo=openai&logoColor=white" alt="LLM"/>&nbsp;
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>&nbsp;
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>&nbsp;
 <img src="https://img.shields.io/badge/OpenTelemetry-F5A800?style=flat-square&logo=opentelemetry&logoColor=white" alt="OpenTelemetry"/>
@@ -233,6 +236,19 @@
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
 </p>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1d4ed8,50:6366f1,100:a78bfa&height=2" width="100%" alt=""/>
+<br/><br/>
+
+<h3 align="left"><b>AI & LLM Engineering</b></h3>
+<p align="left">
+<img src="https://img.shields.io/badge/RAG-FF6B6B?style=flat-square&logo=databricks&logoColor=white" alt="RAG"/>&nbsp;
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>&nbsp;
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>&nbsp;
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/>&nbsp;
+<img src="https://img.shields.io/badge/Vector_DBs-00A67E?style=flat-square&logo=pinecone&logoColor=white" alt="Vector DB"/>&nbsp;
+<img src="https://img.shields.io/badge/AI_Agents-8B5CF6?style=flat-square&logo=probot&logoColor=white" alt="AI Agents"/>&nbsp;
+<img src="https://img.shields.io/badge/Prompt_Engineering-000000?style=flat-square&logo=markdown&logoColor=white" alt="Prompt Engineering"/>
+</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ea580c,50:f97316,100:fcd34d&height=2" width="100%" alt=""/>
 <br/><br/>
 
 <h3 align="left"><b>Frontend</b></h3>
