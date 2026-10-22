@@ -3,23 +3,23 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&multiline=false&width=780&lines=Full-Stack+Engineering+%E2%80%A2+AI%2FLLM+Observability+%E2%80%A2+Real-time+Systems;React+%E2%80%A2+TypeScript+%E2%80%A2+Node.js+%E2%80%A2+Spring+Boot+%E2%80%A2+Python;Enterprise+CRM+%E2%80%A2+LLM+Release+Gates+%E2%80%A2+RAG+Pipelines+%E2%80%A2+WebRTC;40%2B+REST+APIs+Integrated+%E2%80%A2+CI%2FCD+Pipelines+%E2%80%A2+AWS+Serverless;AWS+Certified+AI+Practitioner+%E2%80%A2+University+Hackathon+Champion" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&lines=Full-Stack+Engineering+%E2%80%A2+AI%2FLLM+Observability;React+%E2%80%A2+TypeScript+%E2%80%A2+Node.js+%E2%80%A2+Spring+Boot;Enterprise+CRM+%E2%80%A2+LLM+Release+Gates+%E2%80%A2+RAG;40%2B+REST+APIs+Integrated+%E2%80%A2+CI%2FCD+Pipelines;AWS+Certified+AI+Practitioner" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyanshtri26/)&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyanshtripathi1999@gmail.com)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shreyanshtri26)&nbsp;
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917408875723)
+<a href="https://www.linkedin.com/in/shreyanshtri26/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+<a href="mailto:shreyanshtripathi1999@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a href="https://github.com/shreyanshtri26"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;
+<a href="https://wa.me/917408875723"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 
-<br/>
+<br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=shreyanshtri26&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
-![AWS Badge](https://img.shields.io/badge/AWS_Certified-AI_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-100%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+<img src="https://komarev.com/ghpvc/?username=shreyanshtri26&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS&v=3" alt="Profile Views"/>&nbsp;
+<img src="https://img.shields.io/badge/AWS_Certified-AI_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Badge"/>&nbsp;
+<img src="https://img.shields.io/badge/LeetCode-100%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 
 </div>
 
@@ -38,12 +38,12 @@
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=130&section=header&text=Featured%20Projects&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Web%20Apps%20%7C%20LLM%20Observability%20%7C%20Real-time%20Comms%20%7C%203D%20Graphics%20%7C%20Enterprise%20CRM&descAlignY=65&descSize=15&descColor=a78bfa" alt="Featured Projects" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=130&section=header&text=Featured%20Projects&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Web%20Apps%20%7C%20LLM%20Observability%20%7C%20Real-time%20Comms&descAlignY=65&descSize=15&descColor=a78bfa" alt="Featured Projects" />
 
 <table width="100%" cellpadding="15" cellspacing="0" style="border-collapse: collapse;">
-<tr>
 
-<td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
+<tr>
+<td width="100%" valign="top" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
 
 <h3 align="left"><b>OpenPress</b></h3>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1d4ed8,50:6366f1,100:a78bfa&height=2" width="100%" alt=""/>
@@ -72,8 +72,10 @@
 </p>
 
 </td>
+</tr>
 
-<td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
+<tr>
+<td width="100%" valign="top" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
 
 <h3 align="left"><b>EvalBeacon</b></h3>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:065f46,50:059669,100:34d399&height=2" width="100%" alt=""/>
@@ -103,7 +105,7 @@
 </tr>
 
 <tr>
-<td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
+<td width="100%" valign="top" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
 
 <h3 align="left"><b>Voceo</b></h3>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:78350f,50:d97706,100:fbbf24&height=2" width="100%" alt=""/>
@@ -130,8 +132,10 @@
 </p>
 
 </td>
+</tr>
 
-<td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
+<tr>
+<td width="100%" valign="top" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
 
 <h3 align="left"><b>ShapeXtrusion</b></h3>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:164e63,50:0891b2,100:67e8f9&height=2" width="100%" alt=""/>
@@ -161,7 +165,7 @@
 </tr>
 
 <tr>
-<td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
+<td width="100%" valign="top" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
 
 <h3 align="left"><b>CRICBEAR</b></h3>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7f1d1d,50:dc2626,100:f87171&height=2" width="100%" alt=""/>
@@ -188,8 +192,10 @@
 </p>
 
 </td>
+</tr>
 
-<td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
+<tr>
+<td width="100%" valign="top" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
 
 <h3 align="left"><b>SorcererSyntax</b></h3>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4c1d95,50:7c3aed,100:c4b5fd&height=2" width="100%" alt=""/>
@@ -217,9 +223,8 @@
 
 </td>
 </tr>
-</table>
 
-<br/>
+</table>
 
 ---
 
@@ -236,7 +241,7 @@
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
 </p>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1d4ed8,50:6366f1,100:a78bfa&height=2" width="100%" alt=""/>
-<br/><br/>
+<br/>
 
 <h3 align="left"><b>AI & LLM Engineering</b></h3>
 <p align="left">
@@ -249,7 +254,7 @@
 <img src="https://img.shields.io/badge/Prompt_Engineering-000000?style=flat-square&logo=markdown&logoColor=white" alt="Prompt Engineering"/>
 </p>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ea580c,50:f97316,100:fcd34d&height=2" width="100%" alt=""/>
-<br/><br/>
+<br/>
 
 <h3 align="left"><b>Frontend</b></h3>
 <p align="left">
@@ -264,7 +269,7 @@
 <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
 </p>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:065f46,50:059669,100:34d399&height=2" width="100%" alt=""/>
-<br/><br/>
+<br/>
 
 <h3 align="left"><b>Backend</b></h3>
 <p align="left">
@@ -279,7 +284,7 @@
 <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="REST APIs"/>
 </p>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:78350f,50:d97706,100:fbbf24&height=2" width="100%" alt=""/>
-<br/><br/>
+<br/>
 
 <h3 align="left"><b>Cloud</b></h3>
 <p align="left">
@@ -293,7 +298,7 @@
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
 </p>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:164e63,50:0891b2,100:67e8f9&height=2" width="100%" alt=""/>
-<br/><br/>
+<br/>
 
 <h3 align="left"><b>DevOps & Observability</b></h3>
 <p align="left">
@@ -308,7 +313,7 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
 </p>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7f1d1d,50:dc2626,100:f87171&height=2" width="100%" alt=""/>
-<br/><br/>
+<br/>
 
 <h3 align="left"><b>Databases</b></h3>
 <p align="left">
@@ -330,38 +335,38 @@
 
 <div align="left">
   
-<h3 align="left"><b>Competition</b></h3>
-<p align="left">1st Place, University Hackathon (IoT Emergency Management System)</p>
+<b>Competition</b><br/>
+1st Place, University Hackathon (IoT Emergency Management System)
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1d4ed8,50:6366f1,100:a78bfa&height=2" width="100%" alt=""/>
-<br/><br/>
+<br/>
 
-<h3 align="left"><b>Certification</b></h3>
-<p align="left">AWS Certified AI Practitioner (AIF-C01)</p>
+<b>Certification</b><br/>
+AWS Certified AI Practitioner (AIF-C01)
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:065f46,50:059669,100:34d399&height=2" width="100%" alt=""/>
-<br/><br/>
+<br/>
 
-<h3 align="left"><b>Problem Solving</b></h3>
-<p align="left">100+ LeetCode problems solved</p>
+<b>Problem Solving</b><br/>
+100+ LeetCode problems solved
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:78350f,50:d97706,100:fbbf24&height=2" width="100%" alt=""/>
-<br/><br/>
+<br/>
 
-<h3 align="left"><b>Open Source</b></h3>
-<p align="left">200+ GitHub stars across 10+ public repositories</p>
+<b>Open Source</b><br/>
+200+ GitHub stars across 10+ public repositories
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:164e63,50:0891b2,100:67e8f9&height=2" width="100%" alt=""/>
-<br/><br/>
+<br/>
 
-<h3 align="left"><b>Mobile</b></h3>
-<p align="left">40% engagement uplift with React Native in production</p>
+<b>Mobile</b><br/>
+40% engagement uplift with React Native in production
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7f1d1d,50:dc2626,100:f87171&height=2" width="100%" alt=""/>
-<br/><br/>
+<br/>
 
-<h3 align="left"><b>Quality</b></h3>
-<p align="left">Test coverage raised from 67% to 90% in a production codebase</p>
+<b>Quality</b><br/>
+Test coverage raised from 67% to 90% in a production codebase
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4c1d95,50:7c3aed,100:c4b5fd&height=2" width="100%" alt=""/>
-<br/><br/>
+<br/>
 
-<h3 align="left"><b>Integration</b></h3>
-<p align="left">40+ REST APIs integrated in a single production platform</p>
+<b>Integration</b><br/>
+40+ REST APIs integrated in a single production platform
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:a78bfa&height=2" width="100%" alt=""/>
 
 </div>
@@ -378,9 +383,9 @@
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email-shreyanshtripathi1999%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shreyanshtripathi1999@gmail.com)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyanshtri26/)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shreyanshtri26)
+<a href="mailto:shreyanshtripathi1999@gmail.com"><img src="https://img.shields.io/badge/Email-shreyanshtripathi1999%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/shreyanshtri26/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+<a href="https://github.com/shreyanshtri26"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
 
 </div>
 
