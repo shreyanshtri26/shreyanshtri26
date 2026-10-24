@@ -1,10 +1,10 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,80:24243e,100:0f0c29&height=220&section=header&text=Shreyansh%20Tripathi&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20AWS%20Certified%20AI%20Practitioner%20%7C%20Open%20to%20Collaborate&descAlignY=62&descSize=16&descColor=a78bfa" alt="Shreyansh Tripathi - Full Stack Engineer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,80:24243e,100:0f0c29&height=220&section=header&text=Shreyansh%20Tripathi&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20AWS%20Certified%20AI%20Practitioner&descAlignY=62&descSize=20&descColor=a78bfa" alt="Shreyansh Tripathi - Full Stack Engineer" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&lines=Full-Stack+Engineering+%E2%80%A2+AI%2FLLM+Observability;React+%E2%80%A2+TypeScript+%E2%80%A2+Node.js+%E2%80%A2+Spring+Boot;Enterprise+CRM+%E2%80%A2+LLM+Release+Gates+%E2%80%A2+RAG;40%2B+REST+APIs+Integrated+%E2%80%A2+CI%2FCD+Pipelines;AWS+Certified+AI+Practitioner" alt="Typing SVG" />
-</div>f
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&multiline=false&width=480&lines=Full-Stack+Engineering+%E2%80%A2+AI%2FLLM+Observability;React+%E2%80%A2+TypeScript+%E2%80%A2+Node.js+%E2%80%A2+Spring+Boot;Enterprise+CRM+%E2%80%A2+LLM+Release+Gates+%E2%80%A2+RAG;40%2B+REST+APIs+Integrated+%E2%80%A2+CI%2FCD+Pipelines;AWS+Certified+AI+Practitioner" alt="Typing SVG" />
+</div>
 
 <br/>
 
@@ -18,8 +18,7 @@
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=shreyanshtri26&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS&v=3" alt="Profile Views"/>&nbsp;
-<img src="https://img.shields.io/badge/AWS_Certified-AI_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Badge"/>&nbsp;
-
+<img src="https://img.shields.io/badge/AWS_Certified-AI_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Badge"/>
 
 </div>
 
@@ -47,9 +46,9 @@
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=130&section=header&text=Featured%20Projects&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Web%20Apps%20%7C%20LLM%20Observability%20%7C%20Real-time%20Comms&descAlignY=65&descSize=15&descColor=a78bfa" alt="Featured Projects" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=130&section=header&text=Featured%20Projects&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20%7C%20LLM%20Observability%20%7C%20Real-time&descAlignY=65&descSize=20&descColor=a78bfa" alt="Featured Projects" />
 
-<table width="100%" cellpadding="15" cellspacing="0" style="border-collapse: collapse;">
+<table width="100%" cellpadding="8" cellspacing="0" style="border-collapse: collapse;">
 
 <tr>
 <td width="100%" valign="top" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
