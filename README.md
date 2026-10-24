@@ -19,7 +19,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=shreyanshtri26&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS&v=3" alt="Profile Views"/>&nbsp;
 <img src="https://img.shields.io/badge/AWS_Certified-AI_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Badge"/>&nbsp;
-<img src="https://img.shields.io/badge/LeetCode-300%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+
 
 </div>
 
@@ -34,6 +34,15 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shreyanshtri26/shreyanshtri26/output/github-contribution-grid-snake.svg?v=1">
     <img alt="GitHub contribution graph" src="https://raw.githubusercontent.com/shreyanshtri26/shreyanshtri26/output/github-contribution-grid-snake.svg?v=1">
   </picture>
+
+<br/><br/>
+
+<h2><b>LeetCode Stats</b></h2>
+
+<a href="https://leetcode.com/u/shreyanshtri26/">
+  <img src="https://leetcard.jacoblin.cool/shreyanshtri26?theme=dark&font=JetBrains%20Mono" width="500" alt="LeetCode live stats"/>
+</a>
+
 </div>
 
 <br/>
