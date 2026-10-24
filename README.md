@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&lines=Full-Stack+Engineering+%E2%80%A2+AI%2FLLM+Observability;React+%E2%80%A2+TypeScript+%E2%80%A2+Node.js+%E2%80%A2+Spring+Boot;Enterprise+CRM+%E2%80%A2+LLM+Release+Gates+%E2%80%A2+RAG;40%2B+REST+APIs+Integrated+%E2%80%A2+CI%2FCD+Pipelines;AWS+Certified+AI+Practitioner" alt="Typing SVG" />
-</div>
+</div>f
 
 <br/>
 
@@ -19,7 +19,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=shreyanshtri26&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS&v=3" alt="Profile Views"/>&nbsp;
 <img src="https://img.shields.io/badge/AWS_Certified-AI_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Badge"/>&nbsp;
-<img src="https://img.shields.io/badge/LeetCode-100%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+<img src="https://img.shields.io/badge/LeetCode-300%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 
 </div>
 
