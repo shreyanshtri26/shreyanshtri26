@@ -36,11 +36,6 @@
 
 <br/><br/>
 
-<h2><b>LeetCode Stats</b></h2>
-
-<a href="https://leetcode.com/u/shreyanshtri26/">
-  <img src="https://leetcard.jacoblin.cool/shreyanshtri26?theme=dark&font=JetBrains%20Mono" width="500" alt="LeetCode live stats"/>
-</a>
 
 </div>
 
@@ -370,6 +365,12 @@
 
 <br/>
 
+
+<h2><b>LeetCode Stats</b></h2>
+
+<a href="https://leetcode.com/u/shreyanshtri26/">
+  <img src="https://leetcard.jacoblin.cool/shreyanshtri26?theme=dark&font=JetBrains%20Mono" width="500" alt="LeetCode live stats"/>
+</a>
 ---
 
 <h2 align="left"><b>Highlights</b></h2>
