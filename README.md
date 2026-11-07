@@ -46,7 +46,7 @@
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=130&section=header&text=Featured%20Projects&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20%7C%20LLM%20Observability%20%7C%20Real-time&descAlignY=65&descSize=20&descColor=a78bfa" alt="Featured Projects" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=130&section=header&text=Featured%20Projects&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20%7C%20Agentic%20AI%20%7C%20LLM%20Observability%20%7C%20Real-time&descAlignY=65&descSize=20&descColor=a78bfa" alt="Featured Projects" />
 
 <table width="100%" cellpadding="8" cellspacing="0" style="border-collapse: collapse;">
 
@@ -85,28 +85,31 @@
 <tr>
 <td width="100%" valign="top" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
 
-<h3 align="left"><b>EvalBeacon</b></h3>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:065f46,50:059669,100:34d399&height=2" width="100%" alt=""/>
-<p align="left"><strong>LLM Reliability Platform</strong></p>
+<h3 align="left"><b>Zaldi</b></h3>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:365314,50:84cc16,100:d9f99d&height=2" width="100%" alt=""/>
+<p align="left"><strong>Agentic AI Shopping Assistant</strong></p>
 
-<p align="left">Automated release gates specifically designed for <strong>LLM</strong> and AI agent deployments, ensuring production models maintain quality and performance.</p>
+<p align="left">Tool-using <strong>AI shopping agent</strong> that plugs into any online shop, with a no-code admin portal to run it. It answers from the store's real catalogue and policies instead of guessing, in English, Hindi and Hinglish.</p>
 
 <p align="left">
-• Prevents <strong>LLM</strong> regressions in quality, cost, and latency<br/>
-• End-to-end OpenTelemetry tracing for <strong>LLM</strong> test cases<br/>
-• Multi-provider support for evaluating different <strong>LLM</strong> APIs
+• Agent picks tools (search, policies, cart, orders, returns); every price is <strong>verified</strong> against tool output, and checkout/returns need shopper confirmation<br/>
+• Connects to Shopify, WooCommerce, product feeds, custom APIs, Amazon and Flipkart; embeds on any site with a one-line widget<br/>
+• Hybrid search (filters + vectors + keywords), multi-store admin portal, bring-your-own Gemini/Groq key, and eval suites (100% tool choice and faithfulness on 30 live cases)
 </p>
 
 <p align="left">
-<img src="https://img.shields.io/badge/LLM-8B5CF6?style=flat-square&logo=openai&logoColor=white" alt="LLM"/>&nbsp;
+<img src="https://img.shields.io/badge/AI_Agents-8B5CF6?style=flat-square&logo=probot&logoColor=white" alt="AI Agents"/>&nbsp;
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>&nbsp;
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>&nbsp;
-<img src="https://img.shields.io/badge/OpenTelemetry-F5A800?style=flat-square&logo=opentelemetry&logoColor=white" alt="OpenTelemetry"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>&nbsp;
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>&nbsp;
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>&nbsp;
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>&nbsp;
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 
 <p align="left">
-<a href="https://evalbeacon.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-0078D4?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo"/></a>&nbsp;
-<a href="https://github.com/shreyanshtri26/EvalBeacon"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" alt="Source Code"/></a>
+<a href="https://zaldi.pages.dev/"><img src="https://img.shields.io/badge/Live_Demo-0078D4?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo"/></a>&nbsp;
+<a href="https://github.com/shreyanshtri26/Zaldi"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" alt="Source Code"/></a>
 </p>
 
 </td>
@@ -137,6 +140,36 @@
 <p align="left">
 <a href="https://voceo-p2p.onrender.com/"><img src="https://img.shields.io/badge/Live_Demo-0078D4?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo"/></a>&nbsp;
 <a href="https://github.com/shreyanshtri26/P2P-Video-Chat"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" alt="Source Code"/></a>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="100%" valign="top" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
+
+<h3 align="left"><b>EvalBeacon</b></h3>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:065f46,50:059669,100:34d399&height=2" width="100%" alt=""/>
+<p align="left"><strong>LLM Reliability Platform</strong></p>
+
+<p align="left">Automated release gates specifically designed for <strong>LLM</strong> and AI agent deployments, ensuring production models maintain quality and performance.</p>
+
+<p align="left">
+• Prevents <strong>LLM</strong> regressions in quality, cost, and latency<br/>
+• End-to-end OpenTelemetry tracing for <strong>LLM</strong> test cases<br/>
+• Multi-provider support for evaluating different <strong>LLM</strong> APIs
+</p>
+
+<p align="left">
+<img src="https://img.shields.io/badge/LLM-8B5CF6?style=flat-square&logo=openai&logoColor=white" alt="LLM"/>&nbsp;
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>&nbsp;
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>&nbsp;
+<img src="https://img.shields.io/badge/OpenTelemetry-F5A800?style=flat-square&logo=opentelemetry&logoColor=white" alt="OpenTelemetry"/>
+</p>
+
+<p align="left">
+<a href="https://evalbeacon.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-0078D4?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo"/></a>&nbsp;
+<a href="https://github.com/shreyanshtri26/EvalBeacon"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" alt="Source Code"/></a>
 </p>
 
 </td>
